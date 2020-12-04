@@ -3,7 +3,7 @@ import Nimble
 import PathKit
 @testable import Sourcery
 @testable import SourceryRuntime
-import xcproj
+import XcodeProj
 
 private let version = "Major.Minor.Patch"
 
